@@ -1,0 +1,12 @@
+
+SECTIONS
+{
+    MYDRIVE_Data50 > 0xE000
+    MYDRIVE_Data51 > 0xE200
+    MYDRIVE_Data52 > 0xE400
+    MYDRIVE_Data53 > 0xE600
+    MYDRIVE_Data54 > 0xE800
+    MYDRIVE_Data55 > 0xEA00
+    MYDRIVE_Data56 > 0xEC00
+    MYDRIVE > 0xD000
+}
